@@ -1,1 +1,0 @@
-# iqrol-server
